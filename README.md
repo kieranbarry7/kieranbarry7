@@ -23,7 +23,7 @@ I'm Kieran, a self-taught developer in the UK with a professional background in 
 &nbsp;
 
 ## 🧰 &nbsp;Tools I'm Learning
-[![Tools I'm Learning](https://skillicons.dev/icons?i=java,aws,idea&perline=8)](https://skillicons.dev)
+[![Tools I'm Learning](https://skillicons.dev/icons?i=java,spring,aws,idea&perline=8)](https://skillicons.dev)
 
 
 &nbsp;
