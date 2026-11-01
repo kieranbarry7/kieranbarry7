@@ -1,4 +1,4 @@
-![Hey, I'm Kieran. Developer in the UK, currently switching career into Software Engineering.](./header.svg)
+![Hey, I'm Kieran. Developer in the UK, currently switching career into Software Engineering.](./header.svg?v=2)
 
 
 # 👋 Hi there
