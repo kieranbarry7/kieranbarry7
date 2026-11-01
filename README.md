@@ -1,5 +1,6 @@
 ![Hey, I'm Kieran. Developer in the UK, currently switching career into Software Engineering.](./header.svg)
 
+
 # 👋 Hi there
 
 I'm Kieran, a self-taught developer in the UK with a professional background in Data Analytics and Data Automation. I'm currently making the transition from being an Analyst within a FinTech/WealthTech firm to a Software Developer.
