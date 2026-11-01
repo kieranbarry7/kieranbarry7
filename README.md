@@ -3,7 +3,7 @@
 
 # 👋 Hi there
 
-I'm Kieran, a self-taught developer in the UK with a professional background in Data Analytics and Data Automation. I'm currently making the transition from being an Analyst within a FinTech/WealthTech firm to a Software Developer.
+I'm Kieran, a self-taught developer in the UK with a professional background in Data Analytics and Data Automation. I'm currently making the transition from being a MI Analyst within a FinTech/WealthTech firm to a Software Developer.
 
 ## 🚀 &nbsp;What I've Built
 
