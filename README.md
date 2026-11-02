@@ -30,4 +30,4 @@ I'm Kieran, a self-taught developer in the UK with a professional background in 
 
 ## 📊 &nbsp;Stats
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=kieranbarry7&theme=dark&background=09090b&border=27272a&ring=34d399&fire=34d399&currStreakLabel=34d399&sideLabels=a1a1aa&dates=71717a&currStreakNum=f4f4f5&sideNums=f4f4f5&stroke=27272a)
+![GitHub Streak](https://streak-stats.demolab.com/?user=kieranbarry7&theme=dark&background=09090b&border=27272a&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&sideLabels=a1a1aa&dates=71717a&currStreakNum=f4f4f5&sideNums=f4f4f5&stroke=27272a)
